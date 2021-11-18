@@ -1,8 +1,8 @@
 //SUBSCRIBE HERMAN CHANEL!!
 //GA SUBSCRIBE EROR :V
 
-owner = '6283871990243'
-botname = 'Xrutz BOT'
+owner = '6281262411188'
+botname = 'caca BOT'
 zerokey = 'ZeroYT7'
 ownername = 'HrutzOffc'
 cr = '*Halo Wibu*'
@@ -100,10 +100,10 @@ mess = {
 		Iv: '*Linknya Error Tod !*'
 	},
 	only: {
-	group: '*Khusus Grup Bro!*',
-	admin: '*Khusus Admin Bro!*',
-	owner: '*Khusus Owner Bro!*',
-	ownerB: '*Khusus Owner Bot!*',
+	group: '*Khusus Grup Tod!*',
+	admin: '*Khusus Admin Tod!*',
+	owner: '*Khusus Owner Tod!*',
+	ownerB: '*Khusus Owner Tod!*',
 	Badmin: '*Make the bot a group admin!*'
 	}
 }
